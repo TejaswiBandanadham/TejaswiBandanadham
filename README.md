@@ -75,6 +75,20 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-ff5b5b?style=flat-square)
 ![Nessus](https://img.shields.io/badge/Nessus-1d7a8c?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-7d1d7d?style=flat-square)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-dc7d4a?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-f58f8d?style=flat-square)
+![Forensics](https://img.shields.io/badge/Forensics-8c8c8c?style=flat-square)
+![Web Security Testing](https://img.shields.io/badge/Web_Security_Testing-0073b1?style=flat-square)
+![Network Security Testing](https://img.shields.io/badge/Network_Security_Testing-003f6c?style=flat-square)
+![Vulnerability Assessments](https://img.shields.io/badge/Vulnerability_Assessments-dc7d4a?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078d4?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-004dff?style=flat-square)
+![Security Groups](https://img.shields.io/badge/Security_Groups-00a2ff?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network_Security-0078d4?style=flat-square)
+
 
 
 
