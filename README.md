@@ -59,6 +59,11 @@
 </div>
 
 
+
+
+<h3 align="left">🛠 skills</h3>
+
+
  ![PowerShell](https://img.shields.io/badge/PowerShell-Expertise-3d8fd1)
 
 
