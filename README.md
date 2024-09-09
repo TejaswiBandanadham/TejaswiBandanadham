@@ -59,9 +59,7 @@
 </div>
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
-
- I am a dedicated Cybersecurity Analyst with expertise in threat hunting, incident response, and penetration testing, committed to securing information systems and identifying vulnerabilities. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" /> PowerShell
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" /> PowerShell
 
 
 
