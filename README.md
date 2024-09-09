@@ -68,7 +68,14 @@
  ![SIEM](https://img.shields.io/badge/SIEM-00a3e0?style=flat-square)
  ![Splunk](https://img.shields.io/badge/Splunk-28a745?style=flat-square)
  ![QRadar](https://img.shields.io/badge/QRadar-003c6c?style=flat-square)
- 
+ ![Palo Alto](https://img.shields.io/badge/Palo_Alto-ff4d4d?style=flat-square)
+![Cisco ASA](https://img.shields.io/badge/Cisco_ASA-0073b1?style=flat-square)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-5c5c5c?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1e6f7d?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-ff5b5b?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-1d7a8c?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-7d1d7d?style=flat-square)
+
 
 
 
