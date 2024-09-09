@@ -88,6 +88,9 @@
 ![IAM](https://img.shields.io/badge/IAM-004dff?style=flat-square)
 ![Security Groups](https://img.shields.io/badge/Security_Groups-00a2ff?style=flat-square)
 ![Network Security](https://img.shields.io/badge/Network_Security-0078d4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square)
+
 
 
 
