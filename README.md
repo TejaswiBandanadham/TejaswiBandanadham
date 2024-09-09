@@ -64,6 +64,9 @@
 <h3 align="left">🛠 skills</h3>
 
 
- ![PowerShell](https://img.shields.io/badge/PowerShell-Expertise-3d8fd1)
+ ![PowerShell](https://img.shields.io/badge/PowerShell-3d8fd1)
+ ![SIEM](https://img.shields.io/badge/SIEM-00a3e0?style=flat-square)
+ 
+
 
 
