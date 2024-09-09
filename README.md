@@ -59,7 +59,6 @@
 </div>
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" /> PowerShell
-
+ ![PowerShell](https://img.shields.io/badge/PowerShell-Expertise-3d8fd1)
 
 
