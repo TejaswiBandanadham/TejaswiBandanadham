@@ -66,7 +66,7 @@
 
  ![PowerShell](https://img.shields.io/badge/PowerShell-3d8fd1)
  ![SIEM](https://img.shields.io/badge/SIEM-00a3e0?style=flat-square)
- ![Splunk](https://img.shields.io/badge/Splunk-00a3e0?style=flat-square)
+ ![Splunk](https://img.shields.io/badge/Splunk-28a745?style=flat-square)
  ![QRadar](https://img.shields.io/badge/QRadar-003c6c?style=flat-square)
  
 
